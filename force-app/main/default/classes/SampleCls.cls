@@ -5,5 +5,6 @@ public with sharing class SampleCls {
 
     public static void sampleMethod(){
         //hello world
+        //chut
     }
 }
