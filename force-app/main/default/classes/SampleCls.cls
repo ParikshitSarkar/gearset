@@ -1,10 +1,9 @@
 public with sharing class SampleCls {
     public SampleCls() {
-        //constructor
+        //init variables
     }
 
     public static void sampleMethod(){
-        //comment ...
-        //another comment!!
+        //hello world...
     }
 }
