@@ -1,6 +1,6 @@
 public with sharing class SampleCls {
     public SampleCls() {
-        //init variables
+        //init variables !!!
     }
 
     public static void sampleMethod(){
