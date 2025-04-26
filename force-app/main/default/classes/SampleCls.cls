@@ -1,9 +1,9 @@
 public with sharing class SampleCls {
     public SampleCls() {
-        //init variables !!!
+        //comment
     }
 
     public static void sampleMethod(){
-        //hello world...!!! 
+        //comment
     }
 }
