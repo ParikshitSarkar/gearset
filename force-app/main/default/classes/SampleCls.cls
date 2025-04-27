@@ -1,6 +1,6 @@
 public with sharing class SampleCls {
     public SampleCls() {
-        //yes, this is a comment
+        //TEST
     }
 
     public static void sampleMethod(){
