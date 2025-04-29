@@ -1,10 +1,10 @@
-# Salesforce DX Project: Next Steps
+# How to set up a Salesforce DevOps process in Gearset
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+https://www.youtube.com/watch?v=4yGTHayQSdY&t=2038s
 
-## How Do You Plan to Deploy Your Changes?
+## Important Notes
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+Make sure you add the webhooks either automatically (preferred) or manually to your github repo, for both pipeline and CI jobs (there should be only one even if there are multiple CI jobs running in the pipeline).
 
 ## CI Jobs
 
