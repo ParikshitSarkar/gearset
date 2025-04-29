@@ -1,9 +1,9 @@
 public with sharing class SampleCls {
     public SampleCls() {
-        //TEST
+        //hello world
     }
 
     public static void sampleMethod(){
-        //test
+        //
     }
 }
